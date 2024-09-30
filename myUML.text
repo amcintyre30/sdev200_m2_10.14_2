@@ -1,0 +1,13 @@
++++++++++++++++++++++++++++++++
+|        class MyDate         |
++++++++++++++++++++++++++++++++
+|-int year;                   |
+|-int month;                  |
+|-int day;                    |
++++++++++++++++++++++++++++++++
+| +myDate();                  |
+| +myDate(long elapsedTime);  |
+| +myDate(int year, int month,| 
+| int day);                   |
+| +setDate(long elapsedTime); |
++++++++++++++++++++++++++++++++
